@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = %q{neo_rad}
-  s.version = "0.3.1"
+  s.version = "0.4.0"
   s.date = %q{2023-04-23}
   s.default_executable = %q{rad}
   s.summary = "Neo RAD: Ruby Arduino Development - 0.4.0"
